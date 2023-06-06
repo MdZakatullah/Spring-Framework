@@ -1,2 +1,2 @@
 # Spring-Framework
-Spring Framework Code
+Project (Product Service) using Spring Framework
